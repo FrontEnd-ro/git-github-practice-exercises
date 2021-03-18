@@ -1,0 +1,85 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  color: #1b1b15;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+a {
+  color: inherit;
+}
+header {
+  display: flex;
+  height: 3.3em;
+  align-items: center;
+  padding: 0 5vw;
+  position: relative;
+  justify-content: space-between;
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #bcc2c6;
+}
+.main-nav li {
+  display: inline-block;
+  color: #1b1b15;
+  margin: 0 0.5em;
+}
+.main-nav li a {
+  font-size: 1.1em;
+  padding-bottom: 0.1em;
+  text-decoration: none;
+  border-bottom: 1px solid #1b1b15;
+}
+main {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  flex: 1;
+}
+main h1 {
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+.footer {
+  display: flex;
+  padding-bottom: 1em;
+  border-top: 1px solid #bcc2c6;
+  background-color: #f8f8f8;
+}
+.footer section {
+  flex: 1 1;
+  text-align: center;
+}
+.about-us blockquote {
+  display: block;
+  font-size: 1.5em;
+  line-height: 1.75em;
+  position: relative;
+  padding: 0.5em 0 0.5em 1em;
+  font-style: italic;
+  margin: 1em 0;
+}
+.about-us blockquote::before {
+  content: "";
+  background-color: #2980b9;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 6px;
+}
+.tools {
+  margin: 3em;
+  padding: 2em;
+  color: #2980b9;
+}
