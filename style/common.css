@@ -30,11 +30,6 @@ main {
   flex: 1;
 }
 
-h1 {
-  margin-top: 1em;
-  margin-bottom: 2em;
-}
-
 .about-us blockquote {
   display: block;
   font-size: 1.5em;
@@ -57,4 +52,9 @@ h1 {
   margin: 3em;
   padding: 2em;
   color: #2980b9;
+}
+
+/* UTILS */
+.my-5 {
+  margin: 2em 0;
 }

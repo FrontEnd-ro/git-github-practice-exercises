@@ -1,0 +1,21 @@
+.commands-list {
+  list-style: none;    
+  border-radius: 0.5em;   
+  counter-reset: commands;
+  border: 5px dashed #bcc2c6;
+}
+
+.commands-list li {
+  font-size: 2em;
+  margin: 0.5em 0.25em;
+}
+
+.commands-list li::before {
+  top: 0.1em;
+  color: #2980b9;
+  font-size: 1.5em;
+  font-weight: bold;
+  position: relative;
+  counter-increment: commands;
+  content: "#" counter(commands);
+}

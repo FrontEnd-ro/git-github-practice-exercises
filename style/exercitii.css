@@ -1,0 +1,17 @@
+@import './common.css';
+@import './components/header.css';
+@import './components/footer.css';
+@import './components/fill-in-info.css';
+@import './components//commands-list.css';
+
+h1 {
+  margin-bottom: 0;
+}
+
+.page-description {
+  font-size: 1.25em;
+}
+
+hr {
+  margin-bottom: 5em;
+}

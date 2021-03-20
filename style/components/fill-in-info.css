@@ -1,0 +1,13 @@
+.fill-in-info {
+  padding: 1em;
+  font-size: 1.5em;
+  display: inline-flex;
+  align-items: center;
+  border-radius: 0.5em;
+  border: 5px solid #eb4d4b;
+}
+
+.fill-in-info label {
+  font-weight: bold;
+  margin-right: 2em;
+}
