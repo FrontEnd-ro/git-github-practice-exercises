@@ -37,3 +37,32 @@ To have the best results, **solve the challenges in the order we've written them
 26. Add a card with info about yourself in the *finalisti.html* page.
 27. Create a PR into the original repo
 28. Celebrate! 🎉
+
+## Components
+
+### Commands list
+
+```html
+<ol class="commands-list my-5">
+  <li>
+    git log
+  </li>
+  <li>
+    git add
+  </li>
+</ol>
+```
+
+
+### Fill-in info
+
+```html
+<div class="fill-in-info">
+  <label>
+    Numele tău:
+  </label>
+  <p>
+    Jon Doe
+  </p>
+</div>
+```

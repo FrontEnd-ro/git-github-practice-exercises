@@ -3,6 +3,7 @@
 @import './components/footer.css';
 @import './components/fill-in-info.css';
 @import './components//commands-list.css';
+@import './components/execises-grid.css';
 
 .page-description {
   font-size: 1.25em;
