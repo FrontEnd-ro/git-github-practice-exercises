@@ -1,5 +1,6 @@
 @import './common.css';
 @import './components/header.css';
+@import './components/fill-in-info.css';
 @import './components/footer.css';
 
 .page-description {
