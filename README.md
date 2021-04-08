@@ -13,7 +13,7 @@ To have the best results, don't hurry and carefully read each challenge. Make su
 3. Add a new cell into the **grid** from *prep.html* and write your name or nickname in there.
 4. Add a new commit following the convention: `[username] - description`.
 5. Push those changes on *master*
-6. Add a photo of youself inside the assets folder. Let's name it after your `username`.
+6. Add a photo of youself inside the `assets/participants` folder. Let's name it after your `username`.
 7. Add that photo to the cell from  **step 3**.
 8. Add **one commit** for each modified file. Let's keep the same convention as last time: `[username] - description`.
 9. Push both commits on *master*.
@@ -21,7 +21,7 @@ To have the best results, don't hurry and carefully read each challenge. Make su
 
 --- From now on work on this new branch
 
-7. Add in *prep.html* a new cell with a photo of yourself. 
+7. Add in *prep.html* a new cell with a description of yourself. 
 8. `commit` and `push` this new cell.
 9. Add one of the trainers as a contributor in your project
 10. The trainer will add in *prep.html* a new cell with a photo of himself/herself.
@@ -30,7 +30,7 @@ To have the best results, don't hurry and carefully read each challenge. Make su
 13. Fix the *merge conflicts*
 14. Merge branch. Now on master will be both descriptions!
 15. Hooray! You've finished the learning challenges. You can move on to the next which you'll implement on your own.
-### Practice challenges #1
+### Practice challenges #1 (via VSCode)
 
 1. Move to the *master* branch of the repo.
 2. Create a new branch called **vscode**.
@@ -43,21 +43,20 @@ To have the best results, don't hurry and carefully read each challenge. Make su
 9. Add another cell with some short info about yourself. It can be a favorite hobby, your job title, or why you want to learn Git?! After you're done, `commit` and `push` this code as well.
 10. Let's use the "Commands list" component and add a list of all the actions used so far in the grid.
 11. `commit` and `push` the new modifications
-12. Add in *exercitii.html* a new cell with the number of commits so far.
+12. Add in *exercitii.html* a new cell with the number of commits you've done so far.
 13. `commit` and `push` changes in the remote repo
-14. `push` changes in the remote repo
-15. We're wondering whether instead of the list of commands we should add a description about Git/GitHub. Let's create a new branch named **challenges-v2** where we're gonna experiement with this.
+15. We're wondering whether instead of the list of actions we should add a description about Git/GitHub. Let's create a new branch named **challenges-v2** where we're gonna experiement with this.
 16. `push` the branch in the remote repo. Now you should have 3 branches total.
-17. `revert` the commit with the commands list
-18. Add a small description about Git. Then `push` in the remote repo
+17. `revert` the commit with the actions list
+18. Add a small description about Git inside a new cell from *exercitii.html*. Then `push` in the remote repo
 19. We decide to keep the old version.
 20. Make a `PR` to `vscode` from `challenges` branch.
 21. After approval, merge it.
-22. Navigate to `vscode` and `pull` the changes locally.
+22. Navigate to `vscode` branch and `pull` the changes locally.
 23. Test that everything looks ok.
 24. Done! 💪
 
-### Practice challenges #2
+### Practice challenges #2 (via CLI)
 
 0. Create a new branch from **master** named *cli*.
 1. Add a new cell into the **grid** from *exercitii.html* and write your name or nickname in there.
