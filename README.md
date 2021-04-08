@@ -30,7 +30,7 @@ To have the best results, don't hurry and carefully read each challenge. Make su
 13. Fix the *merge conflicts*
 14. Merge branch. Now on master will be both descriptions!
 15. Hooray! You've finished the learning challenges. You can move on to the next which you'll implement on your own.
-### Practice challenges #1 (via VSCode)
+### <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" width="25" align="center"> Practice challenges #1 (via VSCode)
 
 1. Move to the *master* branch of the repo.
 2. Create a new branch called **vscode**.
@@ -56,7 +56,7 @@ To have the best results, don't hurry and carefully read each challenge. Make su
 23. Test that everything looks ok.
 24. Done! 💪
 
-### Practice challenges #2 (via CLI)
+### <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25" align="center"> Practice challenges #2 (via CLI)
 
 0. Create a new branch from **master** named *cli*.
 1. Add a new cell into the **grid** from *exercitii.html* and write your name or nickname in there.
