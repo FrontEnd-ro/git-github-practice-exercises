@@ -103,10 +103,13 @@ After trainer approval:
 ```html
 <ol class="commands-list my-5">
   <li>
-    git log
+    commit
   </li>
   <li>
-    git add
+    push
+  </li>
+  <li>
+    pull
   </li>
 </ol>
 ```
