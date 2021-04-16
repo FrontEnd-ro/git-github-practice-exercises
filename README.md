@@ -68,8 +68,11 @@ To have the best results, don't hurry and carefully read each challenge. Make su
 1. Add a new cell into the **grid** from *exercitii.html* and write your name or nickname in there.
 2. Add the "Fill-in info" component in *index.html* and write your name or nickname in there. (you can find it's markup at the bottom of this page)
 3. Add **one commit** for each modified file. Let's keep the same convention as last time: `[username] - description`
-4. `push` these changes on *master*
+4. `push` these changes on *cli*
 5. Create a new branch named **challenges**
+
+--- From now on work on this new branch
+
 6. Add in *exercitii.html* a new cell with a photo of yourself. `commit` and `push` this code.
 7. Add another cell with some short info about yourself. It can be a favorite hobby, your job title, or why you want to learn Git?! After you're done, `commit` and `push` this code as well.
 8. Let's use the "Commands list" component and add a list of all the commands used so far in the grid. `commit` the new modifications BUT don't push yet
@@ -79,6 +82,9 @@ To have the best results, don't hurry and carefully read each challenge. Make su
 12. Add in *exercitii.html* a new cell with the number of commits so far.
 13. `push` changes in the remote repo
 14. We're wondering whether instead of the list of commands we should add a description about Git/GitHub. Let's create a new branch named **challenges-v2** where we're gonna experiement with this.
+
+--- From now on work on this new branch
+
 15. `push` the branch in the remote repo. Now you should have 3 branches total.
 16. `revert` the commit with the commands list
 17. Add a small description about Git. Then `push` in the remote repo
